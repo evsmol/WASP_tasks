@@ -1,0 +1,15 @@
+/Users/smolentsev/Yandex.Disk.localized/formaset/WASP/WASP_tasks/bin/Debug/net6.0/WASP_tasks
+/Users/smolentsev/Yandex.Disk.localized/formaset/WASP/WASP_tasks/bin/Debug/net6.0/WASP_tasks.deps.json
+/Users/smolentsev/Yandex.Disk.localized/formaset/WASP/WASP_tasks/bin/Debug/net6.0/WASP_tasks.runtimeconfig.json
+/Users/smolentsev/Yandex.Disk.localized/formaset/WASP/WASP_tasks/bin/Debug/net6.0/WASP_tasks.dll
+/Users/smolentsev/Yandex.Disk.localized/formaset/WASP/WASP_tasks/bin/Debug/net6.0/WASP_tasks.pdb
+/Users/smolentsev/Yandex.Disk.localized/formaset/WASP/WASP_tasks/obj/Debug/net6.0/WASP_tasks.csproj.AssemblyReference.cache
+/Users/smolentsev/Yandex.Disk.localized/formaset/WASP/WASP_tasks/obj/Debug/net6.0/WASP_tasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smolentsev/Yandex.Disk.localized/formaset/WASP/WASP_tasks/obj/Debug/net6.0/WASP_tasks.AssemblyInfoInputs.cache
+/Users/smolentsev/Yandex.Disk.localized/formaset/WASP/WASP_tasks/obj/Debug/net6.0/WASP_tasks.AssemblyInfo.cs
+/Users/smolentsev/Yandex.Disk.localized/formaset/WASP/WASP_tasks/obj/Debug/net6.0/WASP_tasks.csproj.CoreCompileInputs.cache
+/Users/smolentsev/Yandex.Disk.localized/formaset/WASP/WASP_tasks/obj/Debug/net6.0/WASP_tasks.dll
+/Users/smolentsev/Yandex.Disk.localized/formaset/WASP/WASP_tasks/obj/Debug/net6.0/refint/WASP_tasks.dll
+/Users/smolentsev/Yandex.Disk.localized/formaset/WASP/WASP_tasks/obj/Debug/net6.0/WASP_tasks.pdb
+/Users/smolentsev/Yandex.Disk.localized/formaset/WASP/WASP_tasks/obj/Debug/net6.0/WASP_tasks.genruntimeconfig.cache
+/Users/smolentsev/Yandex.Disk.localized/formaset/WASP/WASP_tasks/obj/Debug/net6.0/ref/WASP_tasks.dll
