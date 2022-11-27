@@ -7,6 +7,7 @@
 
 Название                  | Статус | Ссылка
 --------------------------|--------|--------
+1.1                       | 🟡     |<a href="https://github.com/evsmol/WASP_tasks/blob/main/first/One.cs">Перейти</a>
 1.2                       | 🟡     |<a href="https://github.com/evsmol/WASP_tasks/blob/main/first/Two.cs">Перейти</a>
 1.3                       | 🔴     |
 1.4                       | 🔴     |
