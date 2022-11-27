@@ -5,9 +5,21 @@
 
 ### Перечень работ
 
-Название          | Статус | Ссылка
-------------------|--------|--------
-Автопарк          | 🔴    | <a href="https://github.com/vdetstvepil/wasp-homework/tree/master/Autopark">Перейти</a>
+Название                  | Статус | Ссылка
+--------------------------|--------|--------
+1.2                       | 🟡     |<a href="https://github.com/evsmol/WASP_tasks/blob/main/first/Two.cs">Перейти</a>
+1.3                       | 🔴     |
+1.4                       | 🔴     |
+2.1                       | 🟡     |<a href="https://github.com/evsmol/WASP_tasks/blob/main/second/One.cs">Перейти</a>
+2.2                       | 🟡     |<a href="https://github.com/evsmol/WASP_tasks/blob/main/second/Two.cs">Перейти</a>
+2.3                       | 🟡     |<a href="https://github.com/evsmol/WASP_tasks/blob/main/second/Three.cs">Перейти</a>
+2.4                       | 🔴     |
+2.5                       | 🔴     |
+3.1                       | 🔴     |
+3.2                       | 🔴     |
+3.3                       | 🔴     |
+Автопарк                  | 🟡     | <a href="https://github.com/evsmol/WASP_tasks/tree/main/autopark">Перейти</a>
+Магазин музыкальных дисков| 🔴     |
 
 **Статусы выполнения:** <br>
 🔴 Не готово <br>
