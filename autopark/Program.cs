@@ -2,7 +2,7 @@ namespace WASP_tasks.autopark;
 
 public class Program
 {
-    public static void Main(string[] args)
+    public static void Main_(string[] args)
     {
         Car car1 = new Car("Moscvich", 50, 1970);
         PassengerCar car2 = new PassengerCar("Pobeda", 50, 1950, 5);
@@ -27,4 +27,4 @@ public class Program
         });
         Console.WriteLine(autopark.ToString());
     }
-}
+}   
